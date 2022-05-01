@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TanayKashyap
-- 👀 I’m interested in the data & machine learning applications of cybersecurity as well as investigating financial crime 
+- 👀 I’m interested in the data & machine learning applications in fintech & cybersecurity
 - 🌱 I’m currently learning data analysis in python 
 - 💞️ I’m looking to collaborate on data visualization projects & basic security projects
 - 📫 How to reach me, find me on IG @tanay.ketchupp 
