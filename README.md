@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TanayKashyap
 - 👀 I’m interested in the data & machine learning applications in fintech 
-- 🌱 I’m currently learning solidity & SQL 
+- 🌱 I’m currently learning solidity & web3.js
 - 💞️ I’m looking to collaborate on any Machine Learning models or applications 
 - 📫 How to reach me, find me on IG @tanay.ketchupp 
 
